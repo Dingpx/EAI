@@ -5,7 +5,7 @@
 <br/>
 
 > Forecasting Characteristic 3D Poses of Human Actions <br />
-> [Pengxiang Ding](https://dingpx.github.io/), [Qiongjie Cui2](https://keras.me/), [Hongwei Yi](https://xyyhw.top/), [Mingyu Ding](https://dingmyu.github.io/)
+> [Pengxiang Ding](https://dingpx.github.io/), [Qiongjie Cui2](https://keras.me/), [Hongwei Yi](https://xyyhw.top/), [Mingyu Ding](https://dingmyu.github.io/),
 [Debing Zhang](https://scholar.google.com/citations?user=4nL1cDEAAAAJ&hl=en), [Haofan Wang](https://haofanwang.github.io/), [Qiuhong Ke](https://scholar.google.com/citations?user=84qxdhsAAAAJ&hl=zh-CN), [Jun Liu](https://scholar.google.com/citations?user=Q5Ild8UAAAAJ&hl=zh-CN)<br/>
 
 
