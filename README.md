@@ -24,7 +24,7 @@ We conduct extensive experiments on a newly-introduced large-scale benchmark and
 
 ## Installation
 1. Clone this repository   
-`$ git clone https://github.com/Dingpx/XCAI.git`
+`$ git clone https://github.com/Dingpx/EAI.git`
 
 2. Initialize conda environment    
 `$ conda env create -f requirement.yaml`
@@ -43,5 +43,5 @@ Run `$ bash run.sh`.
 
 
 ## License
-XCAI is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+EAI is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 See LICENSE.txt for more details.
