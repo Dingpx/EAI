@@ -1,8 +1,6 @@
-# Expressive Forecasting of 3D Whole-body Human Motions (aaai2024)
+# Expressive Forecasting of 3D Whole-body Human Motions (AAAI2024)
 
-<br/>
-
-> [Pengxiang Ding](https://dingpx.github.io/), [Qiongjie Cui](https://keras.me/), [Mingyu Ding](https://dingmyu.github.io/),[Haofan Wang](https://haofanwang.github.io/)
+> [Pengxiang Ding](https://dingpx.github.io/), [Qiongjie Cui](https://keras.me/), [Haofan Wang](https://haofanwang.github.io/)
 
 
 
