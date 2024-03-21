@@ -1,6 +1,8 @@
 # Expressive Forecasting of 3D Whole-body Human Motions (AAAI2024)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2312.11972)
 
-> [Pengxiang Ding](https://dingpx.github.io/), [Qiongjie Cui](https://keras.me/), [Haofan Wang](https://haofanwang.github.io/)
+Pengxiang Ding, Qiongjie Cui, Min Zhang, Mengyuan Liu, Haofan Wang, Donglin Wang
+
 
 
 
@@ -25,8 +27,11 @@ We conduct extensive experiments on a newly-introduced large-scale benchmark and
 
 ## Datasets
 ### GRAB data
-- The whole process of [GRAB](https://grab.is.tue.mpg.de/)  will be updated
-- or you can download our [processed data]()
+Updated: You can download our [processed data](https://drive.google.com/drive/folders/1o5wfHCkCTwOJrXs8dhGoRFoE1y4q42CO?usp=drive_link) 
+
+TODO:
+- The whole process of [GRAB](https://grab.is.tue.mpg.de/)  will be updated soon.
+
 
 
 ## Training
@@ -36,6 +41,12 @@ Run `$ bash run_train.sh`.
 Run `$ bash run.sh`.
 
 
-## License
-EAI is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-See LICENSE.txt for more details.
+## Cite our work:
+```
+@article{ding2023expressive,
+  title={Expressive Forecasting of 3D Whole-body Human Motions},
+  author={Ding, Pengxiang and Cui, Qiongjie and Zhang, Min and Liu, Mengyuan and Wang, Haofan and Wang, Donglin},
+  journal={arXiv preprint arXiv:2312.11972},
+  year={2023}
+}
+```
